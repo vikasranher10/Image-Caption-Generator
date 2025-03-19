@@ -7,9 +7,13 @@ A deep learning project that generates captions for images using CNN (ResNet50) 
 This project combines computer vision and natural language processing (NLP) to generate meaningful captions for images.
 
 🔹 CNN (ResNet50) extracts image features.
+
 🔹 LSTM (Long Short-Term Memory) processes text and predicts captions.
+
 🔹 Tokenization & Embedding for handling text data.
+
 🔹 Keras & TensorFlow for deep learning.
+
 
 🛠 Technologies Used
 Python
